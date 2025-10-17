@@ -4,7 +4,7 @@
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|---------|------|---------|
 |         1|    |            |           |              |      |         |
-|         1|  Microcontroller  |Arduino Uno             |      Recup      |    /          | 1     |     /    |
+|         1|  Microcontroller  |Arduino Nano             |      Recup      |    /          | 1     |     /    |
 |2|      H-brug|  DRV8833 2channel DC Motor Driver Module|Nieuw|€1.59|1|€1.59
 |3|DC Motoren| 1pcs N20 3.7V - 6V 100 RPM Micro Gear Reduction DC Motor with 30:1|nieuw|€3,12|2|€6.24
 |4|Batterij+lader|Oplaadbare 18650-batterij met een spanning van 3,7 V|nieuw|€3,83|2|€7.66
