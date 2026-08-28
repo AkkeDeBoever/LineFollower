@@ -10,5 +10,8 @@
 | 5 | Breadboard+jumper wires | voor verbinding | Recup | / | 1 | / |
 | 6 | IR Sensor | QTR-8A | nieuw | €11.95 | 1 | €11.95 |
 | 7 | wielen | Rubber Wiel | recup | / | 2 | / |
-| 8 | HC-05 | Bluetooth module | nieuw | €2.49 | 1 | €2.49 |
+| 8 | HC-06 | Bluetooth module | recup | / | 1 | / |
 | 9 | Batterij houder | voor 18650 | nieuw | €1.69 | 1 | €1.69 |
+| 10 | Kogelwiel | voorwiel wagen | nieuw | €1.62 | 1 | €1.62 |
+| 11 | Keramische condensator | 100 nS | Recup | / | 2 | / |
+| 12 | Elektrolytische condensator | 100 µF | Recup | / | 1 | / |
